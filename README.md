@@ -41,5 +41,5 @@ Test
 =====
 To test if the mitsuba2 is properly functioning use the following command
 ```bash
-python test_mitsuba.py
+python3 test_mitsuba.py
 ```
