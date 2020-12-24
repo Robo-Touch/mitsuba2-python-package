@@ -29,6 +29,14 @@ Tested and Build with following system configurations
 source setpath_mac.sh
 ``` 
 
+# Windows
+Currently building with system python or installing python through Windows app store is not supported. Therefore to use windows build, the user need to install Anaconda python 3.8.5 
+Tested and Build with following system configurations
+- Windows SDK 10.0.18362.0
+- MS Visual Studio 2019 19.28.29335.0
+- Anaconda python 3.8.5
+- cmake 3.19.2
+
 Test
 =====
 To test if the mitsuba2 is properly functioning use the following command

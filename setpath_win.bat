@@ -8,5 +8,5 @@ REM ***************************************************************
 
 set MITSUBA_DIR=%~dp0
 set MITSUBA_DIR=%MITSUBA_DIR:~0,-1%
-set PATH=%PATH%;%MITSUBA_DIR%\dist;%MITSUBA_DIR%\build\dist
-set PYTHONPATH=%PYTHONPATH%;%MITSUBA_DIR%\dist\python;%MITSUBA_DIR%\build\dist\python
+set PATH=%PATH%;%MITSUBA_DIR%\dist_win
+set PYTHONPATH=%PYTHONPATH%;%MITSUBA_DIR%\dist_win\python
