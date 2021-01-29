@@ -13,6 +13,7 @@ Tested and Build with following system configurations
 - Cmake 3.16.0
 - ninja 1.8.2
 - Python 3.7.7
+Use following command to activate mitsuba2 python packages on linux
 ```bash
 source setpath_linux.sh
 ``` 
@@ -25,6 +26,7 @@ Tested and Build with following system configurations
 - Cmake 3.18.4
 - ninja 1.10.0
 - Python 3.7.7
+Use the following command to activate mitsuba2 python package on mac
 ```bash
 source setpath_mac.sh
 ``` 
@@ -36,7 +38,10 @@ Tested and Build with following system configurations
 - MS Visual Studio 2019 19.28.29335.0
 - Anaconda python 3.8.5
 - cmake 3.19.2
-
+Use the following command to activate mitsuba2 python package on windows
+```bash
+setpath
+```
 Test
 =====
 To test if the mitsuba2 is properly functioning use the following command
