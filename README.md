@@ -40,7 +40,7 @@ Tested and Build with following system configurations
 - cmake 3.19.2
 Use the following command to activate mitsuba2 python package on windows
 ```bash
-setpath
+setpath_win
 ```
 Test
 =====
