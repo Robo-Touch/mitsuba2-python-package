@@ -4,7 +4,7 @@ This repository provide python packages for [Mitsuba2 renderer](https://mitsuba2
 
 Usage
 =====
-The system configurations are mentioned for debugging purposes. However, only the python version is the crutial requirement for proper function of mitsuba 
+Use the OS specific instructions to setup mitsuba2 in your terminal. This step needs to be done when you start a new terminal window. The system configurations are mentioned for debugging purposes. However, only the python version is the crutial requirement for proper function of mitsuba 
 
 # Linux
 Tested and Build with following system configurations 
