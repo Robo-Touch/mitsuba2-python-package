@@ -8,10 +8,10 @@ Use the OS specific instructions to setup mitsuba2 in your terminal. This step n
 
 # Linux
 Tested and Build with following system configurations 
-- Ubuntu 18.04
-- Clang 9.0.0-2~ubuntu18.04.2 (tags/RELEASE_900/final)
-- Cmake 3.16.0
-- ninja 1.8.2
+- Ubuntu 20.04
+- Clang 10.0.1-++20200708122807+ef32c611aa2-1~exp1~20200707223407.61
+- Cmake 3.19.4
+- ninja 1.10.0
 - Python 3.7.7
 Use following command to activate mitsuba2 python packages on linux
 ```bash
@@ -20,8 +20,8 @@ source setpath_linux.sh
 
 # Mac
 Tested and Build with following system configurations 
-- MacOs Catalina 10.17.5
-- Xcode 12.1
+- MacOs Catalina 11.2.1
+- Xcode 12.4
 - Clang 11.0.0
 - Cmake 3.18.4
 - ninja 1.10.0
@@ -32,11 +32,11 @@ source setpath_mac.sh
 ``` 
 
 # Windows
-Currently building with system python or installing python through Windows app store is not supported. Therefore to use windows build, the user need to install Anaconda python 3.8.5 
+Currently building with system python or installing python through Windows app store is not supported. Therefore to use windows build, the user need to install Anaconda python 3.8.6 
 Tested and Build with following system configurations
 - Windows SDK 10.0.18362.0
-- MS Visual Studio 2019 19.28.29335.0
-- Anaconda python 3.8.5
+- MS Visual Studio 2019 16.8.5
+- Anaconda python 3.8.6
 - cmake 3.19.2
 Use the following command to activate mitsuba2 python package on windows
 ```bash
