@@ -13,6 +13,8 @@ Tested and Build with following system configurations
 - Cmake 3.19.4
 - ninja 1.10.0
 - Python 3.7.7
+Currently following packages need to be installed on the system for the package
+`sudo apt install clang-10 libc++-10-dev libc++abi-10-dev libjpeg8-dev `
 Use following command to activate mitsuba2 python packages on linux
 ```bash
 source setpath_linux.sh
