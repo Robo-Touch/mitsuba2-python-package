@@ -22,10 +22,10 @@ source setpath_linux.sh
 
 # Mac
 Tested and Build with following system configurations 
-- MacOs Catalina 11.2.1
+- MacOs Catalina 11.4
 - Xcode 12.4
 - Clang 11.0.0
-- Cmake 3.18.4
+- Cmake 3.19.7
 - ninja 1.10.0
 - Python 3.7.7
 Use the following command to activate mitsuba2 python package on mac

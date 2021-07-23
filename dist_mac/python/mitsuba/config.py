@@ -3,5 +3,5 @@
     as any changes will be overwritten."""
 
 PYTHON_EXECUTABLE = r"/Users/virtualworld/.pyenv/versions/py377/bin/python"
-MTS_DEFAULT_VARIANT = 'packet_rgb'
-MTS_VARIANTS = ['scalar_rgb', 'scalar_spectral', 'packet_rgb', 'packet_spectral']
+MTS_DEFAULT_VARIANT = 'scalar_rgb'
+MTS_VARIANTS = ['scalar_rgb']

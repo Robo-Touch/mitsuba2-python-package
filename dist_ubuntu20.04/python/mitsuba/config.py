@@ -3,5 +3,5 @@
     as any changes will be overwritten."""
 
 PYTHON_EXECUTABLE = r"/home/arpit/.pyenv/versions/py377/bin/python"
-MTS_DEFAULT_VARIANT = 'packet_rgb'
-MTS_VARIANTS = ['scalar_rgb', 'scalar_spectral', 'packet_spectral', 'packet_rgb']
+MTS_DEFAULT_VARIANT = 'scalar_rgb'
+MTS_VARIANTS = ['scalar_rgb']

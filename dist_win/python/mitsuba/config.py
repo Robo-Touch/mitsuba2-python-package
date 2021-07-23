@@ -2,6 +2,6 @@
     "resources/configure.py". Please do not attempt to change it manually,
     as any changes will be overwritten."""
 
-PYTHON_EXECUTABLE = r"/Users/virtualworld/.pyenv/versions/py377/bin/python"
-MTS_DEFAULT_VARIANT = 'packet_rgb'
-MTS_VARIANTS = ['scalar_rgb', 'scalar_spectral', 'packet_rgb', 'packet_spectral']
+PYTHON_EXECUTABLE = r"C:\Users\arpita1\Anaconda3\envs\py38\python.exe"
+MTS_DEFAULT_VARIANT = 'scalar_rgb'
+MTS_VARIANTS = ['scalar_rgb']

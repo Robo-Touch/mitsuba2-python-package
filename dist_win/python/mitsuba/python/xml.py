@@ -605,7 +605,7 @@ class WriteXML:
                 parent_plugin = self.current_tag()
                 if parent_plugin == 'sensor':
                     # Decompose into rotation and translation
-                    params = self.decompose_transform(value)
+                    # params = self.decompose_transform(value)
                 else:
                     # Simply write the matrix
                     params = self.transform_matrix(value)
